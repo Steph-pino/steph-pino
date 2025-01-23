@@ -13,5 +13,5 @@ Passionate about technology and enjoying a career transition into QA Engineer <i
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
-   <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" alt="Selenium"/>
+   <img decoding="async" src="https://img.shields.io/badge/Selenium-972AB0?style=for-the-badge&logo=seleniuml&logoColor=white" alt="Selenium"/>
   </a>
